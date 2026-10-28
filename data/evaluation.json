@@ -1,0 +1,135 @@
+{
+  "timestamp_utc": "2026-10-28T12:04:47.868760+00:00",
+  "python": "3.12.14",
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "model_revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+  "catalog_size": 2,
+  "keyword": {
+    "precision_at_1": 0.875,
+    "recall_at_1": 0.875,
+    "mrr": 0.9375,
+    "mean_latency_ms": 1.0844183749441072,
+    "queries": [
+      {
+        "query": "รายชื่อจังหวัดของไทย",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 2.6690280001275823
+      },
+      {
+        "query": "จังหวัดและจำนวนอำเภอ",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 1.0644139993019053
+      },
+      {
+        "query": "พิกัดของแต่ละจังหวัด",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 1.4283769996836782
+      },
+      {
+        "query": "ข้อมูลระดับจังหวัด",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 1.1480680004751775
+      },
+      {
+        "query": "รายชื่ออำเภอในประเทศไทย",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 0.6895430005897651
+      },
+      {
+        "query": "อำเภอและจังหวัดต้นสังกัด",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 0.3807619996223366
+      },
+      {
+        "query": "พิกัดของแต่ละเขต",
+        "precision_at_1": 0.0,
+        "recall_at_1": 0.0,
+        "reciprocal_rank": 0.5,
+        "latency_ms": 0.7167690000642324
+      },
+      {
+        "query": "ข้อมูลระดับอำเภอ",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 0.5783859996881802
+      }
+    ]
+  },
+  "semantic": {
+    "precision_at_1": 0.625,
+    "recall_at_1": 0.625,
+    "mrr": 0.8125,
+    "mean_latency_ms": 64.88789687523422,
+    "queries": [
+      {
+        "query": "รายชื่อจังหวัดของไทย",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 30.196421000255214
+      },
+      {
+        "query": "จังหวัดและจำนวนอำเภอ",
+        "precision_at_1": 0.0,
+        "recall_at_1": 0.0,
+        "reciprocal_rank": 0.5,
+        "latency_ms": 60.96016300034535
+      },
+      {
+        "query": "พิกัดของแต่ละจังหวัด",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 37.75445300016145
+      },
+      {
+        "query": "ข้อมูลระดับจังหวัด",
+        "precision_at_1": 0.0,
+        "recall_at_1": 0.0,
+        "reciprocal_rank": 0.5,
+        "latency_ms": 167.44196899981034
+      },
+      {
+        "query": "รายชื่ออำเภอในประเทศไทย",
+        "precision_at_1": 0.0,
+        "recall_at_1": 0.0,
+        "reciprocal_rank": 0.5,
+        "latency_ms": 99.43405600006372
+      },
+      {
+        "query": "อำเภอและจังหวัดต้นสังกัด",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 43.6258200006705
+      },
+      {
+        "query": "พิกัดของแต่ละเขต",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 50.72729600033199
+      },
+      {
+        "query": "ข้อมูลระดับอำเภอ",
+        "precision_at_1": 1.0,
+        "recall_at_1": 1.0,
+        "reciprocal_rank": 1.0,
+        "latency_ms": 28.96299700023519
+      }
+    ]
+  }
+}
