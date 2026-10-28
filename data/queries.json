@@ -1,0 +1,10 @@
+[
+  {"query": "รายชื่อจังหวัดของไทย", "relevant": ["provinces"]},
+  {"query": "จังหวัดและจำนวนอำเภอ", "relevant": ["provinces"]},
+  {"query": "พิกัดของแต่ละจังหวัด", "relevant": ["provinces"]},
+  {"query": "ข้อมูลระดับจังหวัด", "relevant": ["provinces"]},
+  {"query": "รายชื่ออำเภอในประเทศไทย", "relevant": ["districts"]},
+  {"query": "อำเภอและจังหวัดต้นสังกัด", "relevant": ["districts"]},
+  {"query": "พิกัดของแต่ละเขต", "relevant": ["districts"]},
+  {"query": "ข้อมูลระดับอำเภอ", "relevant": ["districts"]}
+]
